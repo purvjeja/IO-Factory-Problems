@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(166, 202, 202);
+}
+.inputContainer {
+    width: 100%;
+    height: 100px;
+    align-self: center;
+}
+
+th, td {
+    border: 1px solid;
+    height: 40px;
+    width: 60px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.tableContainer {
+    width: 100%;
+    height: 300px;
+    overflow: auto;
+}
+
+.waterCountContainer {
+
+}
